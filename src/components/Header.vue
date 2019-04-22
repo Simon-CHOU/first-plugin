@@ -1,6 +1,6 @@
 <template>
   <div class="header">
-    <div class="head-wrap">Element
+    <div class="head-wrap">C/C++语言代码评阅系统
     </div>
   </div>
 </template>
@@ -10,5 +10,6 @@
   color: #fff;
   line-height: 60px;
   text-align: center;
+  
 }
 </style>

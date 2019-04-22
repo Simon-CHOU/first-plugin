@@ -15,7 +15,21 @@ module.exports = [{
         name: '学生管理',
         componentName: 'StudentManageLayout'
     }, {
+        name: '教学班级管理',
+        componentName: 'ClassManageLayout'
+    },{
         name: '教师管理',
         componentName: 'TeacherManageLayout'
+    }]
+},
+{
+    name: '题目',
+    id: 'problem',
+    sub: [{
+        name: '题目管理',
+        componentName: 'ProblemManageLayout'
+    }, {
+        name: '作业管理',
+        componentName: 'AssignmentManageLayout'
     }]
 }]
